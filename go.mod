@@ -1,3 +1,3 @@
-module github.com/pasgre/hello-go
+module github.com/pasgre/greeting
 
 go 1.19
